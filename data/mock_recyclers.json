@@ -1,0 +1,22 @@
+[
+  {
+    "id": "R-MOCK-001",
+    "name": "GreenLoop Demo Recycler",
+    "accepted_materials": ["laptop", "mobile_phone", "monitor", "printer", "paper"],
+    "base_fee": 50,
+    "per_item_fee": 75,
+    "source_id": "MOCK-SOURCE-001",
+    "source_url": "https://example.com/mock-recycler/greenloop",
+    "retrieved_at": "2026-10-23T08:00:00+05:30"
+  },
+  {
+    "id": "R-MOCK-002",
+    "name": "PaperCycle Demo Centre",
+    "accepted_materials": ["paper"],
+    "base_fee": 0,
+    "per_item_fee": 10,
+    "source_id": "MOCK-SOURCE-002",
+    "source_url": "https://example.com/mock-recycler/papercycle",
+    "retrieved_at": "2026-10-23T08:00:00+05:30"
+  }
+]
