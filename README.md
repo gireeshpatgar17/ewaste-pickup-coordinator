@@ -47,5 +47,5 @@ pytest -q
 
 See `ARCHITECTURE.md` for the workflow diagram.
 
-# Deployment URL:
+## Deployment URL:
 https://ewaste-pickup-coordinator-by-gireeshpatgar.streamlit.app/
