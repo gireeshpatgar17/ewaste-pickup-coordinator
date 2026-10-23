@@ -47,9 +47,5 @@ pytest -q
 
 See `ARCHITECTURE.md` for the workflow diagram.
 
-## Before submission
-1. Replace placeholder sources with the organizer's mock recycler site data/URLs if available.
-2. Run all tests and the UI scenarios; capture honest screenshots.
-3. Deploy the app (for example, Streamlit Community Cloud) and confirm the public URL opens in a private/incognito window.
-4. Push source to a public GitHub repository. Never commit API keys or private personal data.
-5. Record a 2–3 minute demo and prepare the presentation.
+# Deployment URL:
+https://ewaste-pickup-coordinator-by-gireeshpatgar.streamlit.app/
